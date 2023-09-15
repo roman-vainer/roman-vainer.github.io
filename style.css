@@ -1,0 +1,43 @@
+body {
+    font-family: 'Rokkitt', serif;
+    color: antiquewhite;
+    background-color: #222222;
+    margin: 3rem;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.description {
+    width: 70%;
+    font-size: 24px;
+}
+
+.descriptions-header {
+    font-size: 30px;
+    text-decoration: underline;
+    margin-bottom: 0;
+}
+
+ul {
+    margin-top: 0;
+}
+#photo {
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin: 3rem;
+}
+
+#Profile-links {
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+}
